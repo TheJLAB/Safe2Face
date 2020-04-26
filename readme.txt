@@ -8,4 +8,4 @@ How it works :
   Wait for the S (standby) to be displayed on the led matrix
   press Joystick Up : "I"  is displayed (Init) then "R" (recording)
   record your gesture.
-  press Joystick Down : "S" is displayed (Stand by)
+  press Joystick Down :Record is stopped & "S" is displayed (Stand by)
